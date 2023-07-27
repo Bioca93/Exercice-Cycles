@@ -1,0 +1,32 @@
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\bin\Debug\net5.0\Cycles.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\bin\Debug\net5.0\Cycles.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\bin\Debug\net5.0\Cycles.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\bin\Debug\net5.0\Cycles.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\bin\Debug\net5.0\Cycles.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\bin\Debug\net5.0\Cycles.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\refint\Cycles.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\Cycles.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Cycles\obj\Debug\net5.0\ref\Cycles.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\bin\Debug\net5.0\Cycles.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\bin\Debug\net5.0\Cycles.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\bin\Debug\net5.0\Cycles.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\bin\Debug\net5.0\Cycles.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\bin\Debug\net5.0\Cycles.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\bin\Debug\net5.0\Cycles.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\refint\Cycles.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\Cycles.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Cycles\LigaçãoDosCycles\obj\Debug\net5.0\ref\Cycles.dll
