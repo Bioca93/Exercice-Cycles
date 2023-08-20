@@ -1,2 +1,2 @@
-# Exercice-Cycles
-Apply cycles in exercices
+# Exercise-Cycles
+Apply cycles in exercises
